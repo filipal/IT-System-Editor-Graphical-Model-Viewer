@@ -8,12 +8,6 @@ Built as a graphical editor for exploring and modifying complex IT system struct
 
 ---
 
-## 🎥 Demo
-Video demo:  
-(ovdje ide link na video ili embed)
-
----
-
 ## What this app demonstrates
 - Upload and management of multiple JSON model files  
 - Automatic transformation of JSON data into a network graph  
